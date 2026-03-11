@@ -1,4 +1,4 @@
-# 👥 User Data Analysis Project
+# 👥 User Demographics EDA 
 
 A data analysis project that fetches user data from the [DummyJSON API](https://dummyjson.com/users), explores and cleans it, then answers key analytical questions through **Seaborn visualizations**.
 
